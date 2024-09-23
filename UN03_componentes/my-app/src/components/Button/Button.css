@@ -1,0 +1,16 @@
+.button-form{
+  padding: 10px;
+  background-color: rgb(65, 123, 239);
+  outline: none; 
+  border-radius: 15px;
+  cursor: pointer;
+  color: #FFF;
+  border: 1px solid rgb(65, 123, 239);
+  transition: .4s all;
+ }
+ .button-form:hover{
+   scale: 1.1;
+   background-color: #FFF;
+   color: rgb(65, 123, 239);
+   box-shadow: 10px 5px rgb(65, 123, 239);
+ }

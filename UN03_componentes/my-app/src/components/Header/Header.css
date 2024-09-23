@@ -1,0 +1,12 @@
+
+.header-top{
+  background-color: #3498db;
+  padding: 10px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-top h1{
+  font-size: 1.2rem;
+  color: #fff;
+}

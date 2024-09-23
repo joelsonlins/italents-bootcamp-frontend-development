@@ -1,0 +1,17 @@
+.container{
+  height: 100%;
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+.contato{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0px;
+  flex-direction: column;
+}
+.contato h2{
+  margin-bottom: 15px;
+}
