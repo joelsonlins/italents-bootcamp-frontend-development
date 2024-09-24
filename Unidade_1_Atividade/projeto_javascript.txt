@@ -1,0 +1,23 @@
+Desenvolver um projeto de estudo em javascript 
+contendo pelo menos 5 dos conceitos revisados
+durante o módulo
+
+* var, let e const
+* Arrow Function
+* Objetos
+* Arrays
+* Desestrturação
+* Template Literals
+* Es6 Modules
+* Operador Ternário
+* Spread Operator
+
+- Sugestões
+* Calculadora (Soma, Subtração, Multiplicação e Divisão)
+* Calculadora imC
+* Timer
+* Lista de Tarefas
+
+Dica: Para facilitar o aprendizado faça interações com o html
+através de eevntos e manipulação do DOM.
+(pesquise sobre eventos JavaScript)
