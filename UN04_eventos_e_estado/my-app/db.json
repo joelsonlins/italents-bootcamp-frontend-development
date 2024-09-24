@@ -1,0 +1,57 @@
+{
+  "movies": [
+    {
+      "id": "0",
+      "nome": "Harry Potter e as Relíquias da Morte",
+      "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/95/59/60/20417256.jpg",
+      "anoLancamento": 2021,
+      "textAlt": "Poster do filme Harry Potter"
+    },
+    {
+      "id": "1",
+      "nome": "O senhor dos aneis: As duas torres",
+      "poster": "https://br.web.img2.acsta.net/medias/nmedia/18/92/34/89/20194741.jpg",
+      "anoLancamento": 2018,
+      "textAlt": "Poster do filme senhor dos aneis: As duas torres"
+    },
+    {
+      "id": "2",
+      "nome": "Interestellar",
+      "poster": "https://br.web.img3.acsta.net/pictures/14/10/31/20/39/476171.jpg",
+      "anoLancamento": 2014,
+      "textAlt": "Poster do filme Interestellar"
+    },
+    {
+      "id": "3",
+      "nome": "Silêncio dos Inocentes",
+      "poster": "https://br.web.img3.acsta.net/pictures/14/10/07/22/16/591185.jpg",
+      "anoLancamento": 1991,
+      "textAlt": "Poster do filme Silêncio dos Inocentes"
+    },
+    {
+      "id": "4",
+      "nome": "Avatar",
+      "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/87/30/40/20028676.jpg",
+      "anoLancamento": 2009,
+      "textAlt": "Poster do filmes Avatar"
+    },
+    {
+      "id": "e60a",
+      "nome": "One Piece Gold",
+      "poster": "https://br.web.img2.acsta.net/pictures/16/09/09/15/54/101079.jpg",
+      "anoLancamento": "2016"
+    },
+    {
+      "id": "07b3",
+      "nome": "Black Clover: A Espada do Rei Mago",
+      "poster": "https://media.fstatic.com/zR4JznBsUhTbouKWJyPR2ph0Y7A=/322x478/smart/filters:format(webp)/media/movies/covers/2023/06/cats_0hEUEv0.jpg",
+      "anoLancamento": "2023"
+    },
+    {
+      "id": "2760",
+      "nome": "Solo Leveling",
+      "poster": "https://br.web.img2.acsta.net/pictures/24/01/11/19/33/3421983.jpg",
+      "anoLancamento": "2023"
+    }
+  ]
+}
